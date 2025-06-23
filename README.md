@@ -19,6 +19,7 @@ SauceDemo_QA/
 ├── Manual_tetsing_pdf and Automation testing paased test cases video/
 │ ├── Manual Testing Documentation for SauceDemo.pdf
 │ └── saucedemo_video.mp4
+| └──   Use_of_AI_and_Challenges_faced
 ├── Reports/ # HTML test reports
 │ ├── all_reports.html
 │ ├── cart_test_report.html
