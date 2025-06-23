@@ -1,0 +1,92 @@
+2025-06-21 22:34:31,447 : INFO : === Testing valid login for user: standard_user ===
+2025-06-21 22:34:31,813 : INFO : Login successful for user: standard_user
+2025-06-21 22:34:31,867 : INFO : === Testing valid login for user: locked_out_user ===
+2025-06-21 22:34:32,152 : WARNING : Login failed for valid user: locked_out_user
+2025-06-21 22:34:37,519 : INFO : === Testing invalid login for user: standa123rd_user ===
+2025-06-21 22:34:37,903 : INFO : Proper error shown for invalid user: standa123rd_user
+2025-06-21 22:34:37,937 : INFO : === Testing invalid login for user: loc34ked_out_user ===
+2025-06-21 22:34:38,219 : INFO : Proper error shown for invalid user: loc34ked_out_user
+2025-06-21 22:34:38,253 : INFO : === Testing invalid login for user: problem_uerser ===
+2025-06-21 22:34:38,529 : INFO : Proper error shown for invalid user: problem_uerser
+2025-06-21 22:34:38,587 : INFO : === Testing invalid login for user: per12formance_glitch_user ===
+2025-06-21 22:34:38,884 : INFO : Proper error shown for invalid user: per12formance_glitch_user
+2025-06-21 22:34:38,918 : INFO : === Testing invalid login for user: er3eror_user ===
+2025-06-21 22:34:39,194 : INFO : Proper error shown for invalid user: er3eror_user
+2025-06-21 22:34:39,226 : INFO : === Testing invalid login for user: visual_u45ser ===
+2025-06-21 22:34:39,488 : INFO : Proper error shown for invalid user: visual_u45ser
+2025-06-21 22:40:28,148 : INFO : === Testing valid login for user: standard_user ===
+2025-06-21 22:40:33,632 : INFO : === Testing invalid login for user: standa123rd_user ===
+2025-06-21 22:40:34,035 : INFO : Proper error shown for invalid user: standa123rd_user
+2025-06-21 22:40:34,070 : INFO : === Testing invalid login for user: loc34ked_out_user ===
+2025-06-21 22:40:34,369 : INFO : Proper error shown for invalid user: loc34ked_out_user
+2025-06-21 22:40:34,427 : INFO : === Testing invalid login for user: problem_uerser ===
+2025-06-21 22:40:34,698 : INFO : Proper error shown for invalid user: problem_uerser
+2025-06-21 22:40:34,731 : INFO : === Testing invalid login for user: per12formance_glitch_user ===
+2025-06-21 22:40:35,013 : INFO : Proper error shown for invalid user: per12formance_glitch_user
+2025-06-21 22:40:35,048 : INFO : === Testing invalid login for user: er3eror_user ===
+2025-06-21 22:40:35,319 : INFO : Proper error shown for invalid user: er3eror_user
+2025-06-21 22:40:35,352 : INFO : === Testing invalid login for user: visual_u45ser ===
+2025-06-21 22:40:35,616 : INFO : Proper error shown for invalid user: visual_u45ser
+2025-06-21 22:41:02,162 : INFO : === Testing valid login for user: standard_user ===
+2025-06-21 22:41:08,188 : INFO : === Testing invalid login for user: standa123rd_user ===
+2025-06-21 22:41:08,759 : INFO : Proper error shown for invalid user: standa123rd_user
+2025-06-21 22:41:08,794 : INFO : === Testing invalid login for user: loc34ked_out_user ===
+2025-06-21 22:41:09,131 : INFO : Proper error shown for invalid user: loc34ked_out_user
+2025-06-21 22:41:09,201 : INFO : === Testing invalid login for user: problem_uerser ===
+2025-06-21 22:41:09,511 : INFO : Proper error shown for invalid user: problem_uerser
+2025-06-21 22:41:09,547 : INFO : === Testing invalid login for user: per12formance_glitch_user ===
+2025-06-21 22:41:09,858 : INFO : Proper error shown for invalid user: per12formance_glitch_user
+2025-06-21 22:41:09,895 : INFO : === Testing invalid login for user: er3eror_user ===
+2025-06-21 22:41:10,223 : INFO : Proper error shown for invalid user: er3eror_user
+2025-06-21 22:41:10,271 : INFO : === Testing invalid login for user: visual_u45ser ===
+2025-06-21 22:41:10,559 : INFO : Proper error shown for invalid user: visual_u45ser
+2025-06-21 22:43:47,088 : INFO : === Testing valid login for user: standard_user ===
+2025-06-21 22:43:47,424 : WARNING : Login failed for valid user: standard_user
+2025-06-21 22:43:52,760 : INFO : === Testing invalid login for user: standa123rd_user ===
+2025-06-21 22:43:53,130 : INFO : Proper error shown for invalid user: standa123rd_user
+2025-06-21 22:43:53,164 : INFO : === Testing invalid login for user: loc34ked_out_user ===
+2025-06-21 22:43:53,477 : INFO : Proper error shown for invalid user: loc34ked_out_user
+2025-06-21 22:43:53,534 : INFO : === Testing invalid login for user: problem_uerser ===
+2025-06-21 22:43:53,803 : INFO : Proper error shown for invalid user: problem_uerser
+2025-06-21 22:43:53,835 : INFO : === Testing invalid login for user: per12formance_glitch_user ===
+2025-06-21 22:43:54,114 : INFO : Proper error shown for invalid user: per12formance_glitch_user
+2025-06-21 22:43:54,148 : INFO : === Testing invalid login for user: er3eror_user ===
+2025-06-21 22:43:54,391 : INFO : Proper error shown for invalid user: er3eror_user
+2025-06-21 22:43:54,425 : INFO : === Testing invalid login for user: visual_u45ser ===
+2025-06-21 22:43:54,682 : INFO : Proper error shown for invalid user: visual_u45ser
+2025-06-21 22:44:37,859 : INFO : === Testing valid login for user: standard_user ===
+2025-06-21 22:44:38,197 : WARNING : Login failed for valid user: standard_user
+2025-06-21 22:44:43,632 : INFO : === Testing invalid login for user: standa123rd_user ===
+2025-06-21 22:44:43,991 : INFO : Proper error shown for invalid user: standa123rd_user
+2025-06-21 22:44:44,025 : INFO : === Testing invalid login for user: loc34ked_out_user ===
+2025-06-21 22:44:44,327 : INFO : Proper error shown for invalid user: loc34ked_out_user
+2025-06-21 22:44:44,357 : INFO : === Testing invalid login for user: problem_uerser ===
+2025-06-21 22:44:44,643 : INFO : Proper error shown for invalid user: problem_uerser
+2025-06-21 22:44:44,673 : INFO : === Testing invalid login for user: per12formance_glitch_user ===
+2025-06-21 22:44:44,987 : INFO : Proper error shown for invalid user: per12formance_glitch_user
+2025-06-21 22:44:45,041 : INFO : === Testing invalid login for user: er3eror_user ===
+2025-06-21 22:44:45,305 : INFO : Proper error shown for invalid user: er3eror_user
+2025-06-21 22:44:45,339 : INFO : === Testing invalid login for user: visual_u45ser ===
+2025-06-21 22:44:45,614 : INFO : Proper error shown for invalid user: visual_u45ser
+2025-06-21 22:47:06,817 : INFO : === Testing valid login for user: standard_user ===
+2025-06-21 22:47:07,192 : INFO : Login successful for user: standard_user
+2025-06-21 22:47:07,230 : INFO : === Testing valid login for user: problem_user ===
+2025-06-21 22:47:07,493 : INFO : Login successful for user: problem_user
+2025-06-21 22:47:07,539 : INFO : === Testing valid login for user: performance_glitch_user ===
+2025-06-21 22:47:07,827 : INFO : Login successful for user: performance_glitch_user
+2025-06-21 22:47:07,856 : INFO : === Testing valid login for user: error_user ===
+2025-06-21 22:47:08,027 : INFO : Login successful for user: error_user
+2025-06-21 22:47:08,055 : INFO : === Testing valid login for user: visual_user ===
+2025-06-21 22:47:08,230 : INFO : Login successful for user: visual_user
+2025-06-21 22:47:13,405 : INFO : === Testing invalid login for user: standa123rd_user ===
+2025-06-21 22:47:13,761 : INFO : Proper error shown for invalid user: standa123rd_user
+2025-06-21 22:47:13,794 : INFO : === Testing invalid login for user: loc34ked_out_user ===
+2025-06-21 22:47:14,067 : INFO : Proper error shown for invalid user: loc34ked_out_user
+2025-06-21 22:47:14,103 : INFO : === Testing invalid login for user: problem_uerser ===
+2025-06-21 22:47:14,363 : INFO : Proper error shown for invalid user: problem_uerser
+2025-06-21 22:47:14,416 : INFO : === Testing invalid login for user: per12formance_glitch_user ===
+2025-06-21 22:47:14,722 : INFO : Proper error shown for invalid user: per12formance_glitch_user
+2025-06-21 22:47:14,758 : INFO : === Testing invalid login for user: er3eror_user ===
+2025-06-21 22:47:15,007 : INFO : Proper error shown for invalid user: er3eror_user
+2025-06-21 22:47:15,041 : INFO : === Testing invalid login for user: visual_u45ser ===
+2025-06-21 22:47:15,289 : INFO : Proper error shown for invalid user: visual_u45ser

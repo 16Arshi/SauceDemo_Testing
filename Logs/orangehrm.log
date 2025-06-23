@@ -1,0 +1,718 @@
+2025-06-23 14:24:09 | INFO | root | test_add_to_cart.py:23 | Starting test for user: standard_user
+2025-06-23 14:24:11 | INFO | root | test_add_to_cart.py:31 | Login successful.
+2025-06-23 14:24:11 | INFO | root | test_add_to_cart.py:33 | Adding all items to the cart.
+2025-06-23 14:24:11 | INFO | root | test_add_to_cart.py:35 | Items added: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:24:11 | INFO | root | test_add_to_cart.py:38 | Navigating to cart page.
+2025-06-23 14:24:11 | INFO | root | test_add_to_cart.py:40 | Cart page loaded successfully.
+2025-06-23 14:24:11 | INFO | root | test_add_to_cart.py:42 | Removing 2 items from the cart.
+2025-06-23 14:24:13 | INFO | root | test_add_to_cart.py:44 | Items removed: ['Sauce Labs Backpack', 'Sauce Labs Bike Light']
+2025-06-23 14:24:13 | INFO | root | test_add_to_cart.py:48 | Remaining items in cart: ['Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:24:13 | INFO | root | test_add_to_cart.py:57 | Test completed successfully.
+2025-06-23 14:24:17 | INFO | root | test_checkout_items.py:35 | Starting test for user: standard_user
+2025-06-23 14:24:19 | INFO | root | test_checkout_items.py:43 | Login successful.
+2025-06-23 14:24:19 | INFO | root | test_checkout_items.py:45 | Adding all items to the cart.
+2025-06-23 14:24:19 | INFO | root | test_checkout_items.py:47 | Items added: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:24:19 | INFO | root | test_checkout_items.py:50 | Navigating to cart page.
+2025-06-23 14:24:20 | INFO | root | test_checkout_items.py:52 | Cart page loaded successfully.
+2025-06-23 14:24:20 | INFO | root | test_checkout_items.py:54 | Removing 2 items from the cart.
+2025-06-23 14:24:21 | INFO | root | test_checkout_items.py:56 | Items removed: ['Sauce Labs Backpack', 'Sauce Labs Bike Light']
+2025-06-23 14:24:21 | INFO | root | test_checkout_items.py:60 | Remaining items in cart: ['Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:24:21 | INFO | root | test_checkout_items.py:69 | Proceeding to checkout with random data.
+2025-06-23 14:24:21 | INFO | root | test_checkout_items.py:86 | Checkout completed successfully with: cnSSqM TgQQTr, 36468
+2025-06-23 14:24:27 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: standa123rd_user ===
+2025-06-23 14:24:28 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: standa123rd_user
+2025-06-23 14:24:28 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: loc34ked_out_user ===
+2025-06-23 14:24:28 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: loc34ked_out_user
+2025-06-23 14:24:28 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: problem_uerser ===
+2025-06-23 14:24:29 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: problem_uerser
+2025-06-23 14:24:29 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: per12formance_glitch_user ===
+2025-06-23 14:24:29 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: per12formance_glitch_user
+2025-06-23 14:24:29 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: er3eror_user ===
+2025-06-23 14:24:30 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: er3eror_user
+2025-06-23 14:24:30 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: visual_u45ser ===
+2025-06-23 14:24:30 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: visual_u45ser
+2025-06-23 14:33:02 | INFO | root | test_add_to_cart.py:23 | Starting test for user: standard_user
+2025-06-23 14:33:04 | INFO | root | test_add_to_cart.py:31 | Login successful.
+2025-06-23 14:33:04 | INFO | root | test_add_to_cart.py:33 | Adding all items to the cart.
+2025-06-23 14:33:04 | INFO | root | test_add_to_cart.py:35 | Items added: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:33:04 | INFO | root | test_add_to_cart.py:38 | Navigating to cart page.
+2025-06-23 14:33:04 | INFO | root | test_add_to_cart.py:40 | Cart page loaded successfully.
+2025-06-23 14:33:04 | INFO | root | test_add_to_cart.py:42 | Removing 2 items from the cart.
+2025-06-23 14:33:14 | INFO | root | test_add_to_cart.py:44 | Items removed: []
+2025-06-23 14:33:19 | INFO | root | test_checkout_items.py:35 | Starting test for user: standard_user
+2025-06-23 14:33:21 | INFO | root | test_checkout_items.py:43 | Login successful.
+2025-06-23 14:33:21 | INFO | root | test_checkout_items.py:45 | Adding all items to the cart.
+2025-06-23 14:33:21 | INFO | root | test_checkout_items.py:47 | Items added: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:33:21 | INFO | root | test_checkout_items.py:50 | Navigating to cart page.
+2025-06-23 14:33:21 | INFO | root | test_checkout_items.py:52 | Cart page loaded successfully.
+2025-06-23 14:33:21 | INFO | root | test_checkout_items.py:54 | Removing 2 items from the cart.
+2025-06-23 14:33:31 | INFO | root | test_checkout_items.py:56 | Items removed: []
+2025-06-23 14:33:38 | INFO | root | test_login_page.py:24 | === Testing valid login for user: standard_user ===
+2025-06-23 14:33:38 | INFO | root | test_login_page.py:33 | Login successful for user: standard_user
+2025-06-23 14:33:38 | INFO | root | test_login_page.py:24 | === Testing valid login for user: problem_user ===
+2025-06-23 14:33:38 | INFO | root | test_login_page.py:33 | Login successful for user: problem_user
+2025-06-23 14:33:39 | INFO | root | test_login_page.py:24 | === Testing valid login for user: performance_glitch_user ===
+2025-06-23 14:33:39 | INFO | root | test_login_page.py:33 | Login successful for user: performance_glitch_user
+2025-06-23 14:33:39 | INFO | root | test_login_page.py:24 | === Testing valid login for user: error_user ===
+2025-06-23 14:33:39 | INFO | root | test_login_page.py:33 | Login successful for user: error_user
+2025-06-23 14:33:39 | INFO | root | test_login_page.py:24 | === Testing valid login for user: visual_user ===
+2025-06-23 14:33:39 | INFO | root | test_login_page.py:33 | Login successful for user: visual_user
+2025-06-23 14:33:45 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: standa123rd_user ===
+2025-06-23 14:33:45 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: standa123rd_user
+2025-06-23 14:33:45 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: loc34ked_out_user ===
+2025-06-23 14:33:46 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: loc34ked_out_user
+2025-06-23 14:33:46 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: problem_uerser ===
+2025-06-23 14:33:46 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: problem_uerser
+2025-06-23 14:33:46 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: per12formance_glitch_user ===
+2025-06-23 14:33:46 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: per12formance_glitch_user
+2025-06-23 14:33:47 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: er3eror_user ===
+2025-06-23 14:33:47 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: er3eror_user
+2025-06-23 14:33:47 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: visual_u45ser ===
+2025-06-23 14:33:47 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: visual_u45ser
+2025-06-23 14:34:22 | INFO | root | test_add_to_cart.py:23 | Starting test for user: standard_user
+2025-06-23 14:34:24 | INFO | root | test_add_to_cart.py:31 | Login successful.
+2025-06-23 14:34:24 | INFO | root | test_add_to_cart.py:33 | Adding all items to the cart.
+2025-06-23 14:34:24 | INFO | root | test_add_to_cart.py:35 | Items added: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:34:24 | INFO | root | test_add_to_cart.py:38 | Navigating to cart page.
+2025-06-23 14:34:24 | INFO | root | test_add_to_cart.py:40 | Cart page loaded successfully.
+2025-06-23 14:34:24 | INFO | root | test_add_to_cart.py:42 | Removing 2 items from the cart.
+2025-06-23 14:34:35 | INFO | root | test_add_to_cart.py:44 | Items removed: []
+2025-06-23 14:34:39 | INFO | root | test_checkout_items.py:35 | Starting test for user: standard_user
+2025-06-23 14:34:41 | INFO | root | test_checkout_items.py:43 | Login successful.
+2025-06-23 14:34:41 | INFO | root | test_checkout_items.py:45 | Adding all items to the cart.
+2025-06-23 14:34:41 | INFO | root | test_checkout_items.py:47 | Items added: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:34:41 | INFO | root | test_checkout_items.py:50 | Navigating to cart page.
+2025-06-23 14:34:41 | INFO | root | test_checkout_items.py:52 | Cart page loaded successfully.
+2025-06-23 14:34:41 | INFO | root | test_checkout_items.py:54 | Removing 2 items from the cart.
+2025-06-23 14:35:12 | INFO | root | test_add_to_cart.py:23 | Starting test for user: standard_user
+2025-06-23 14:35:13 | INFO | root | test_add_to_cart.py:31 | Login successful.
+2025-06-23 14:35:13 | INFO | root | test_add_to_cart.py:33 | Adding all items to the cart.
+2025-06-23 14:35:14 | INFO | root | test_add_to_cart.py:35 | Items added: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:35:14 | INFO | root | test_add_to_cart.py:38 | Navigating to cart page.
+2025-06-23 14:35:14 | INFO | root | test_add_to_cart.py:40 | Cart page loaded successfully.
+2025-06-23 14:35:14 | INFO | root | test_add_to_cart.py:42 | Removing 2 items from the cart.
+2025-06-23 14:35:24 | INFO | root | test_add_to_cart.py:44 | Items removed: []
+2025-06-23 14:35:28 | INFO | root | test_checkout_items.py:35 | Starting test for user: standard_user
+2025-06-23 14:35:30 | INFO | root | test_checkout_items.py:43 | Login successful.
+2025-06-23 14:35:30 | INFO | root | test_checkout_items.py:45 | Adding all items to the cart.
+2025-06-23 14:35:30 | INFO | root | test_checkout_items.py:47 | Items added: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:35:30 | INFO | root | test_checkout_items.py:50 | Navigating to cart page.
+2025-06-23 14:35:30 | INFO | root | test_checkout_items.py:52 | Cart page loaded successfully.
+2025-06-23 14:35:30 | INFO | root | test_checkout_items.py:54 | Removing 2 items from the cart.
+2025-06-23 14:35:41 | INFO | root | test_checkout_items.py:56 | Items removed: []
+2025-06-23 14:35:46 | INFO | root | test_login_page.py:24 | === Testing valid login for user: standard_user ===
+2025-06-23 14:35:46 | INFO | root | test_login_page.py:33 | Login successful for user: standard_user
+2025-06-23 14:35:46 | INFO | root | test_login_page.py:24 | === Testing valid login for user: problem_user ===
+2025-06-23 14:35:47 | INFO | root | test_login_page.py:33 | Login successful for user: problem_user
+2025-06-23 14:35:47 | INFO | root | test_login_page.py:24 | === Testing valid login for user: performance_glitch_user ===
+2025-06-23 14:35:52 | INFO | root | test_login_page.py:33 | Login successful for user: performance_glitch_user
+2025-06-23 14:35:52 | INFO | root | test_login_page.py:24 | === Testing valid login for user: error_user ===
+2025-06-23 14:35:52 | INFO | root | test_login_page.py:33 | Login successful for user: error_user
+2025-06-23 14:35:52 | INFO | root | test_login_page.py:24 | === Testing valid login for user: visual_user ===
+2025-06-23 14:35:53 | INFO | root | test_login_page.py:33 | Login successful for user: visual_user
+2025-06-23 14:35:58 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: standa123rd_user ===
+2025-06-23 14:35:58 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: standa123rd_user
+2025-06-23 14:35:58 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: loc34ked_out_user ===
+2025-06-23 14:35:59 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: loc34ked_out_user
+2025-06-23 14:35:59 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: problem_uerser ===
+2025-06-23 14:35:59 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: problem_uerser
+2025-06-23 14:35:59 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: per12formance_glitch_user ===
+2025-06-23 14:35:59 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: per12formance_glitch_user
+2025-06-23 14:35:59 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: er3eror_user ===
+2025-06-23 14:36:00 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: er3eror_user
+2025-06-23 14:36:00 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: visual_u45ser ===
+2025-06-23 14:36:00 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: visual_u45ser
+2025-06-23 14:37:18 | INFO | root | test_add_to_cart.py:23 | Starting test for user: standard_user
+2025-06-23 14:37:20 | INFO | root | test_add_to_cart.py:31 | Login successful.
+2025-06-23 14:37:20 | INFO | root | test_add_to_cart.py:33 | Adding all items to the cart.
+2025-06-23 14:37:20 | INFO | root | test_add_to_cart.py:35 | Items added: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:37:20 | INFO | root | test_add_to_cart.py:38 | Navigating to cart page.
+2025-06-23 14:37:20 | INFO | root | test_add_to_cart.py:40 | Cart page loaded successfully.
+2025-06-23 14:37:20 | INFO | root | test_add_to_cart.py:42 | Removing 2 items from the cart.
+2025-06-23 14:37:30 | INFO | root | test_add_to_cart.py:44 | Items removed: []
+2025-06-23 14:37:34 | INFO | root | test_checkout_items.py:35 | Starting test for user: standard_user
+2025-06-23 14:37:36 | INFO | root | test_checkout_items.py:43 | Login successful.
+2025-06-23 14:37:36 | INFO | root | test_checkout_items.py:45 | Adding all items to the cart.
+2025-06-23 14:37:37 | INFO | root | test_checkout_items.py:47 | Items added: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:37:37 | INFO | root | test_checkout_items.py:50 | Navigating to cart page.
+2025-06-23 14:37:37 | INFO | root | test_checkout_items.py:52 | Cart page loaded successfully.
+2025-06-23 14:37:37 | INFO | root | test_checkout_items.py:54 | Removing 2 items from the cart.
+2025-06-23 14:37:47 | INFO | root | test_checkout_items.py:56 | Items removed: []
+2025-06-23 14:37:53 | INFO | root | test_login_page.py:24 | === Testing valid login for user: standard_user ===
+2025-06-23 14:37:53 | INFO | root | test_login_page.py:33 | Login successful for user: standard_user
+2025-06-23 14:37:53 | INFO | root | test_login_page.py:24 | === Testing valid login for user: problem_user ===
+2025-06-23 14:37:53 | INFO | root | test_login_page.py:33 | Login successful for user: problem_user
+2025-06-23 14:37:53 | INFO | root | test_login_page.py:24 | === Testing valid login for user: performance_glitch_user ===
+2025-06-23 14:37:54 | INFO | root | test_login_page.py:33 | Login successful for user: performance_glitch_user
+2025-06-23 14:37:54 | INFO | root | test_login_page.py:24 | === Testing valid login for user: error_user ===
+2025-06-23 14:37:54 | INFO | root | test_login_page.py:33 | Login successful for user: error_user
+2025-06-23 14:37:54 | INFO | root | test_login_page.py:24 | === Testing valid login for user: visual_user ===
+2025-06-23 14:37:54 | INFO | root | test_login_page.py:33 | Login successful for user: visual_user
+2025-06-23 14:38:00 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: standa123rd_user ===
+2025-06-23 14:38:00 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: standa123rd_user
+2025-06-23 14:38:00 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: loc34ked_out_user ===
+2025-06-23 14:38:00 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: loc34ked_out_user
+2025-06-23 14:38:00 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: problem_uerser ===
+2025-06-23 14:38:01 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: problem_uerser
+2025-06-23 14:38:01 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: per12formance_glitch_user ===
+2025-06-23 14:38:01 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: per12formance_glitch_user
+2025-06-23 14:38:01 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: er3eror_user ===
+2025-06-23 14:38:01 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: er3eror_user
+2025-06-23 14:38:01 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: visual_u45ser ===
+2025-06-23 14:38:02 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: visual_u45ser
+2025-06-23 14:38:07 | INFO | root | test_add_to_cart.py:23 | Starting test for user: standard_user
+2025-06-23 14:38:08 | INFO | root | test_add_to_cart.py:31 | Login successful.
+2025-06-23 14:38:08 | INFO | root | test_add_to_cart.py:33 | Adding all items to the cart.
+2025-06-23 14:38:09 | INFO | root | test_add_to_cart.py:35 | Items added: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:38:09 | INFO | root | test_add_to_cart.py:38 | Navigating to cart page.
+2025-06-23 14:38:09 | INFO | root | test_add_to_cart.py:40 | Cart page loaded successfully.
+2025-06-23 14:38:09 | INFO | root | test_add_to_cart.py:42 | Removing 2 items from the cart.
+2025-06-23 14:38:19 | INFO | root | test_add_to_cart.py:44 | Items removed: []
+2025-06-23 14:38:23 | INFO | root | test_checkout_items.py:35 | Starting test for user: standard_user
+2025-06-23 14:38:25 | INFO | root | test_checkout_items.py:43 | Login successful.
+2025-06-23 14:38:25 | INFO | root | test_checkout_items.py:45 | Adding all items to the cart.
+2025-06-23 14:38:25 | INFO | root | test_checkout_items.py:47 | Items added: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:38:25 | INFO | root | test_checkout_items.py:50 | Navigating to cart page.
+2025-06-23 14:38:25 | INFO | root | test_checkout_items.py:52 | Cart page loaded successfully.
+2025-06-23 14:38:25 | INFO | root | test_checkout_items.py:54 | Removing 2 items from the cart.
+2025-06-23 14:38:36 | INFO | root | test_checkout_items.py:56 | Items removed: []
+2025-06-23 14:38:41 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: standa123rd_user ===
+2025-06-23 14:38:41 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: standa123rd_user
+2025-06-23 14:38:41 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: loc34ked_out_user ===
+2025-06-23 14:38:42 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: loc34ked_out_user
+2025-06-23 14:38:42 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: problem_uerser ===
+2025-06-23 14:38:42 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: problem_uerser
+2025-06-23 14:38:42 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: per12formance_glitch_user ===
+2025-06-23 14:38:42 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: per12formance_glitch_user
+2025-06-23 14:38:42 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: er3eror_user ===
+2025-06-23 14:38:43 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: er3eror_user
+2025-06-23 14:38:43 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: visual_u45ser ===
+2025-06-23 14:38:43 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: visual_u45ser
+2025-06-23 14:39:39 | INFO | root | test_add_to_cart.py:23 | Starting test for user: standard_user
+2025-06-23 14:39:41 | INFO | root | test_add_to_cart.py:31 | Login successful.
+2025-06-23 14:39:41 | INFO | root | test_add_to_cart.py:33 | Adding all items to the cart.
+2025-06-23 14:39:42 | INFO | root | test_add_to_cart.py:35 | Items added: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:39:42 | INFO | root | test_add_to_cart.py:38 | Navigating to cart page.
+2025-06-23 14:39:42 | INFO | root | test_add_to_cart.py:40 | Cart page loaded successfully.
+2025-06-23 14:39:42 | INFO | root | test_add_to_cart.py:42 | Removing 2 items from the cart.
+2025-06-23 14:39:44 | INFO | root | test_add_to_cart.py:44 | Items removed: ['Sauce Labs Backpack', 'Sauce Labs Backpack']
+2025-06-23 14:39:44 | INFO | root | test_add_to_cart.py:48 | Remaining items in cart: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:39:48 | INFO | root | test_checkout_items.py:35 | Starting test for user: standard_user
+2025-06-23 14:39:52 | INFO | root | test_checkout_items.py:43 | Login successful.
+2025-06-23 14:39:52 | INFO | root | test_checkout_items.py:45 | Adding all items to the cart.
+2025-06-23 14:39:52 | INFO | root | test_checkout_items.py:47 | Items added: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:39:52 | INFO | root | test_checkout_items.py:50 | Navigating to cart page.
+2025-06-23 14:39:52 | INFO | root | test_checkout_items.py:52 | Cart page loaded successfully.
+2025-06-23 14:39:52 | INFO | root | test_checkout_items.py:54 | Removing 2 items from the cart.
+2025-06-23 14:39:55 | INFO | root | test_checkout_items.py:56 | Items removed: ['Sauce Labs Backpack', 'Sauce Labs Backpack']
+2025-06-23 14:39:55 | INFO | root | test_checkout_items.py:60 | Remaining items in cart: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:40:01 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: standa123rd_user ===
+2025-06-23 14:40:01 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: standa123rd_user
+2025-06-23 14:40:01 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: loc34ked_out_user ===
+2025-06-23 14:40:02 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: loc34ked_out_user
+2025-06-23 14:40:02 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: problem_uerser ===
+2025-06-23 14:40:02 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: problem_uerser
+2025-06-23 14:40:02 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: per12formance_glitch_user ===
+2025-06-23 14:40:02 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: per12formance_glitch_user
+2025-06-23 14:40:02 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: er3eror_user ===
+2025-06-23 14:40:03 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: er3eror_user
+2025-06-23 14:40:03 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: visual_u45ser ===
+2025-06-23 14:40:03 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: visual_u45ser
+2025-06-23 14:41:15 | INFO | root | test_add_to_cart.py:23 | Starting test for user: standard_user
+2025-06-23 14:41:17 | INFO | root | test_add_to_cart.py:31 | Login successful.
+2025-06-23 14:41:17 | INFO | root | test_add_to_cart.py:33 | Adding all items to the cart.
+2025-06-23 14:41:17 | INFO | root | test_add_to_cart.py:35 | Items added: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:41:17 | INFO | root | test_add_to_cart.py:38 | Navigating to cart page.
+2025-06-23 14:41:17 | INFO | root | test_add_to_cart.py:40 | Cart page loaded successfully.
+2025-06-23 14:41:17 | INFO | root | test_add_to_cart.py:42 | Removing 2 items from the cart.
+2025-06-23 14:41:27 | INFO | root | test_add_to_cart.py:44 | Items removed: []
+2025-06-23 14:41:32 | INFO | root | test_checkout_items.py:35 | Starting test for user: standard_user
+2025-06-23 14:41:33 | INFO | root | test_checkout_items.py:43 | Login successful.
+2025-06-23 14:41:33 | INFO | root | test_checkout_items.py:45 | Adding all items to the cart.
+2025-06-23 14:41:34 | INFO | root | test_checkout_items.py:47 | Items added: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:41:34 | INFO | root | test_checkout_items.py:50 | Navigating to cart page.
+2025-06-23 14:41:34 | INFO | root | test_checkout_items.py:52 | Cart page loaded successfully.
+2025-06-23 14:41:34 | INFO | root | test_checkout_items.py:54 | Removing 2 items from the cart.
+2025-06-23 14:41:35 | INFO | root | test_checkout_items.py:56 | Items removed: ['Sauce Labs Backpack', 'Sauce Labs Backpack']
+2025-06-23 14:41:35 | INFO | root | test_checkout_items.py:60 | Remaining items in cart: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:41:42 | INFO | root | test_login_page.py:24 | === Testing valid login for user: standard_user ===
+2025-06-23 14:41:43 | INFO | root | test_login_page.py:33 | Login successful for user: standard_user
+2025-06-23 14:41:43 | INFO | root | test_login_page.py:24 | === Testing valid login for user: problem_user ===
+2025-06-23 14:41:43 | INFO | root | test_login_page.py:33 | Login successful for user: problem_user
+2025-06-23 14:41:43 | INFO | root | test_login_page.py:24 | === Testing valid login for user: performance_glitch_user ===
+2025-06-23 14:41:43 | INFO | root | test_login_page.py:33 | Login successful for user: performance_glitch_user
+2025-06-23 14:41:43 | INFO | root | test_login_page.py:24 | === Testing valid login for user: error_user ===
+2025-06-23 14:41:44 | INFO | root | test_login_page.py:33 | Login successful for user: error_user
+2025-06-23 14:41:44 | INFO | root | test_login_page.py:24 | === Testing valid login for user: visual_user ===
+2025-06-23 14:41:44 | INFO | root | test_login_page.py:33 | Login successful for user: visual_user
+2025-06-23 14:41:49 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: standa123rd_user ===
+2025-06-23 14:41:50 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: standa123rd_user
+2025-06-23 14:41:50 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: loc34ked_out_user ===
+2025-06-23 14:41:50 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: loc34ked_out_user
+2025-06-23 14:41:50 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: problem_uerser ===
+2025-06-23 14:41:50 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: problem_uerser
+2025-06-23 14:41:50 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: per12formance_glitch_user ===
+2025-06-23 14:41:51 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: per12formance_glitch_user
+2025-06-23 14:41:51 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: er3eror_user ===
+2025-06-23 14:41:51 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: er3eror_user
+2025-06-23 14:41:51 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: visual_u45ser ===
+2025-06-23 14:41:51 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: visual_u45ser
+2025-06-23 14:44:34 | INFO | root | test_add_to_cart.py:23 | Starting test for user: standard_user
+2025-06-23 14:44:35 | INFO | root | test_add_to_cart.py:31 | Login successful.
+2025-06-23 14:44:35 | INFO | root | test_add_to_cart.py:33 | Adding all items to the cart.
+2025-06-23 14:44:36 | INFO | root | test_add_to_cart.py:35 | Items added: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:44:36 | INFO | root | test_add_to_cart.py:38 | Navigating to cart page.
+2025-06-23 14:44:36 | INFO | root | test_add_to_cart.py:40 | Cart page loaded successfully.
+2025-06-23 14:44:36 | INFO | root | test_add_to_cart.py:42 | Removing 2 items from the cart.
+2025-06-23 14:44:46 | INFO | root | test_add_to_cart.py:44 | Items removed: []
+2025-06-23 14:44:51 | INFO | root | test_checkout_items.py:35 | Starting test for user: standard_user
+2025-06-23 14:44:53 | INFO | root | test_checkout_items.py:43 | Login successful.
+2025-06-23 14:44:53 | INFO | root | test_checkout_items.py:45 | Adding all items to the cart.
+2025-06-23 14:44:53 | INFO | root | test_checkout_items.py:47 | Items added: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:44:53 | INFO | root | test_checkout_items.py:50 | Navigating to cart page.
+2025-06-23 14:44:53 | INFO | root | test_checkout_items.py:52 | Cart page loaded successfully.
+2025-06-23 14:44:53 | INFO | root | test_checkout_items.py:54 | Removing 2 items from the cart.
+2025-06-23 14:45:03 | INFO | root | test_checkout_items.py:56 | Items removed: []
+2025-06-23 14:45:09 | INFO | root | test_login_page.py:24 | === Testing valid login for user: standard_user ===
+2025-06-23 14:45:09 | INFO | root | test_login_page.py:33 | Login successful for user: standard_user
+2025-06-23 14:45:09 | INFO | root | test_login_page.py:24 | === Testing valid login for user: problem_user ===
+2025-06-23 14:45:10 | INFO | root | test_login_page.py:33 | Login successful for user: problem_user
+2025-06-23 14:45:10 | INFO | root | test_login_page.py:24 | === Testing valid login for user: performance_glitch_user ===
+2025-06-23 14:45:10 | INFO | root | test_login_page.py:33 | Login successful for user: performance_glitch_user
+2025-06-23 14:45:10 | INFO | root | test_login_page.py:24 | === Testing valid login for user: error_user ===
+2025-06-23 14:45:10 | INFO | root | test_login_page.py:33 | Login successful for user: error_user
+2025-06-23 14:45:10 | INFO | root | test_login_page.py:24 | === Testing valid login for user: visual_user ===
+2025-06-23 14:45:11 | INFO | root | test_login_page.py:33 | Login successful for user: visual_user
+2025-06-23 14:45:16 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: standa123rd_user ===
+2025-06-23 14:45:17 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: standa123rd_user
+2025-06-23 14:45:17 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: loc34ked_out_user ===
+2025-06-23 14:45:17 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: loc34ked_out_user
+2025-06-23 14:45:17 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: problem_uerser ===
+2025-06-23 14:45:18 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: problem_uerser
+2025-06-23 14:45:18 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: per12formance_glitch_user ===
+2025-06-23 14:45:18 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: per12formance_glitch_user
+2025-06-23 14:45:18 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: er3eror_user ===
+2025-06-23 14:45:18 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: er3eror_user
+2025-06-23 14:45:18 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: visual_u45ser ===
+2025-06-23 14:45:19 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: visual_u45ser
+2025-06-23 14:46:13 | INFO | root | test_add_to_cart.py:23 | Starting test for user: standard_user
+2025-06-23 14:46:14 | INFO | root | test_add_to_cart.py:31 | Login successful.
+2025-06-23 14:46:14 | INFO | root | test_add_to_cart.py:33 | Adding all items to the cart.
+2025-06-23 14:46:15 | INFO | root | test_add_to_cart.py:35 | Items added: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:46:15 | INFO | root | test_add_to_cart.py:38 | Navigating to cart page.
+2025-06-23 14:46:15 | INFO | root | test_add_to_cart.py:40 | Cart page loaded successfully.
+2025-06-23 14:46:15 | INFO | root | test_add_to_cart.py:42 | Removing 2 items from the cart.
+2025-06-23 14:46:30 | INFO | root | test_checkout_items.py:35 | Starting test for user: standard_user
+2025-06-23 14:46:31 | INFO | root | test_checkout_items.py:43 | Login successful.
+2025-06-23 14:46:31 | INFO | root | test_checkout_items.py:45 | Adding all items to the cart.
+2025-06-23 14:46:32 | INFO | root | test_checkout_items.py:47 | Items added: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:46:32 | INFO | root | test_checkout_items.py:50 | Navigating to cart page.
+2025-06-23 14:46:32 | INFO | root | test_checkout_items.py:52 | Cart page loaded successfully.
+2025-06-23 14:46:32 | INFO | root | test_checkout_items.py:54 | Removing 2 items from the cart.
+2025-06-23 14:46:50 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: standa123rd_user ===
+2025-06-23 14:46:51 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: standa123rd_user
+2025-06-23 14:46:51 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: loc34ked_out_user ===
+2025-06-23 14:46:51 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: loc34ked_out_user
+2025-06-23 14:46:51 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: problem_uerser ===
+2025-06-23 14:46:51 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: problem_uerser
+2025-06-23 14:46:51 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: per12formance_glitch_user ===
+2025-06-23 14:46:52 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: per12formance_glitch_user
+2025-06-23 14:46:52 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: er3eror_user ===
+2025-06-23 14:46:52 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: er3eror_user
+2025-06-23 14:46:52 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: visual_u45ser ===
+2025-06-23 14:46:52 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: visual_u45ser
+2025-06-23 14:47:36 | INFO | root | test_add_to_cart.py:23 | Starting test for user: standard_user
+2025-06-23 14:47:37 | INFO | root | test_add_to_cart.py:31 | Login successful.
+2025-06-23 14:47:37 | INFO | root | test_add_to_cart.py:33 | Adding all items to the cart.
+2025-06-23 14:47:38 | INFO | root | test_add_to_cart.py:35 | Items added: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:47:38 | INFO | root | test_add_to_cart.py:38 | Navigating to cart page.
+2025-06-23 14:47:38 | INFO | root | test_add_to_cart.py:40 | Cart page loaded successfully.
+2025-06-23 14:47:38 | INFO | root | test_add_to_cart.py:42 | Removing 2 items from the cart.
+2025-06-23 14:47:53 | INFO | root | test_checkout_items.py:35 | Starting test for user: standard_user
+2025-06-23 14:47:54 | INFO | root | test_checkout_items.py:43 | Login successful.
+2025-06-23 14:47:54 | INFO | root | test_checkout_items.py:45 | Adding all items to the cart.
+2025-06-23 14:47:55 | INFO | root | test_checkout_items.py:47 | Items added: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:47:55 | INFO | root | test_checkout_items.py:50 | Navigating to cart page.
+2025-06-23 14:47:55 | INFO | root | test_checkout_items.py:52 | Cart page loaded successfully.
+2025-06-23 14:47:55 | INFO | root | test_checkout_items.py:54 | Removing 2 items from the cart.
+2025-06-23 14:47:56 | INFO | root | test_checkout_items.py:56 | Items removed: ['Sauce Labs Backpack', 'Sauce Labs Bike Light']
+2025-06-23 14:47:56 | INFO | root | test_checkout_items.py:60 | Remaining items in cart: ['Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:47:56 | INFO | root | test_checkout_items.py:69 | Proceeding to checkout with random data.
+2025-06-23 14:47:57 | INFO | root | test_checkout_items.py:86 | Checkout completed successfully with: XqtkJb Reyupz, 59986
+2025-06-23 14:48:02 | INFO | root | test_login_page.py:24 | === Testing valid login for user: standard_user ===
+2025-06-23 14:48:03 | INFO | root | test_login_page.py:33 | Login successful for user: standard_user
+2025-06-23 14:48:03 | INFO | root | test_login_page.py:24 | === Testing valid login for user: problem_user ===
+2025-06-23 14:48:03 | INFO | root | test_login_page.py:33 | Login successful for user: problem_user
+2025-06-23 14:48:03 | INFO | root | test_login_page.py:24 | === Testing valid login for user: performance_glitch_user ===
+2025-06-23 14:48:03 | INFO | root | test_login_page.py:33 | Login successful for user: performance_glitch_user
+2025-06-23 14:48:03 | INFO | root | test_login_page.py:24 | === Testing valid login for user: error_user ===
+2025-06-23 14:48:04 | INFO | root | test_login_page.py:33 | Login successful for user: error_user
+2025-06-23 14:48:04 | INFO | root | test_login_page.py:24 | === Testing valid login for user: visual_user ===
+2025-06-23 14:48:04 | INFO | root | test_login_page.py:33 | Login successful for user: visual_user
+2025-06-23 14:48:09 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: standa123rd_user ===
+2025-06-23 14:48:10 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: standa123rd_user
+2025-06-23 14:48:10 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: loc34ked_out_user ===
+2025-06-23 14:48:10 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: loc34ked_out_user
+2025-06-23 14:48:10 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: problem_uerser ===
+2025-06-23 14:48:10 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: problem_uerser
+2025-06-23 14:48:10 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: per12formance_glitch_user ===
+2025-06-23 14:48:11 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: per12formance_glitch_user
+2025-06-23 14:48:11 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: er3eror_user ===
+2025-06-23 14:48:11 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: er3eror_user
+2025-06-23 14:48:11 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: visual_u45ser ===
+2025-06-23 14:48:11 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: visual_u45ser
+2025-06-23 14:48:34 | INFO | root | test_add_to_cart.py:23 | Starting test for user: standard_user
+2025-06-23 14:48:36 | INFO | root | test_add_to_cart.py:31 | Login successful.
+2025-06-23 14:48:36 | INFO | root | test_add_to_cart.py:33 | Adding all items to the cart.
+2025-06-23 14:48:36 | INFO | root | test_add_to_cart.py:35 | Items added: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:48:36 | INFO | root | test_add_to_cart.py:38 | Navigating to cart page.
+2025-06-23 14:48:38 | INFO | root | test_add_to_cart.py:40 | Cart page loaded successfully.
+2025-06-23 14:48:38 | INFO | root | test_add_to_cart.py:42 | Removing 2 items from the cart.
+2025-06-23 14:48:40 | INFO | root | test_add_to_cart.py:44 | Items removed: ['Sauce Labs Backpack', 'Sauce Labs Bike Light']
+2025-06-23 14:48:40 | INFO | root | test_add_to_cart.py:48 | Remaining items in cart: ['Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:48:40 | INFO | root | test_add_to_cart.py:57 | Test completed successfully.
+2025-06-23 14:48:44 | INFO | root | test_checkout_items.py:35 | Starting test for user: standard_user
+2025-06-23 14:48:46 | INFO | root | test_checkout_items.py:43 | Login successful.
+2025-06-23 14:48:46 | INFO | root | test_checkout_items.py:45 | Adding all items to the cart.
+2025-06-23 14:48:46 | INFO | root | test_checkout_items.py:47 | Items added: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:48:46 | INFO | root | test_checkout_items.py:50 | Navigating to cart page.
+2025-06-23 14:48:47 | INFO | root | test_checkout_items.py:52 | Cart page loaded successfully.
+2025-06-23 14:48:47 | INFO | root | test_checkout_items.py:54 | Removing 2 items from the cart.
+2025-06-23 14:48:49 | INFO | root | test_checkout_items.py:56 | Items removed: ['Sauce Labs Backpack', 'Sauce Labs Bike Light']
+2025-06-23 14:48:49 | INFO | root | test_checkout_items.py:60 | Remaining items in cart: ['Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:48:49 | INFO | root | test_checkout_items.py:69 | Proceeding to checkout with random data.
+2025-06-23 14:48:50 | INFO | root | test_checkout_items.py:86 | Checkout completed successfully with: KPnFPJ skatiA, 15572
+2025-06-23 14:48:55 | INFO | root | test_login_page.py:24 | === Testing valid login for user: standard_user ===
+2025-06-23 14:48:55 | INFO | root | test_login_page.py:33 | Login successful for user: standard_user
+2025-06-23 14:48:55 | INFO | root | test_login_page.py:24 | === Testing valid login for user: problem_user ===
+2025-06-23 14:48:56 | INFO | root | test_login_page.py:33 | Login successful for user: problem_user
+2025-06-23 14:48:56 | INFO | root | test_login_page.py:24 | === Testing valid login for user: performance_glitch_user ===
+2025-06-23 14:48:56 | INFO | root | test_login_page.py:33 | Login successful for user: performance_glitch_user
+2025-06-23 14:48:56 | INFO | root | test_login_page.py:24 | === Testing valid login for user: error_user ===
+2025-06-23 14:48:56 | INFO | root | test_login_page.py:33 | Login successful for user: error_user
+2025-06-23 14:48:56 | INFO | root | test_login_page.py:24 | === Testing valid login for user: visual_user ===
+2025-06-23 14:48:57 | INFO | root | test_login_page.py:33 | Login successful for user: visual_user
+2025-06-23 14:49:02 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: standa123rd_user ===
+2025-06-23 14:49:03 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: standa123rd_user
+2025-06-23 14:49:03 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: loc34ked_out_user ===
+2025-06-23 14:49:03 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: loc34ked_out_user
+2025-06-23 14:49:03 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: problem_uerser ===
+2025-06-23 14:49:03 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: problem_uerser
+2025-06-23 14:49:03 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: per12formance_glitch_user ===
+2025-06-23 14:49:04 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: per12formance_glitch_user
+2025-06-23 14:49:04 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: er3eror_user ===
+2025-06-23 14:49:04 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: er3eror_user
+2025-06-23 14:49:04 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: visual_u45ser ===
+2025-06-23 14:49:05 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: visual_u45ser
+2025-06-23 14:49:14 | INFO | root | test_add_to_cart.py:23 | Starting test for user: standard_user
+2025-06-23 14:49:15 | INFO | root | test_add_to_cart.py:31 | Login successful.
+2025-06-23 14:49:15 | INFO | root | test_add_to_cart.py:33 | Adding all items to the cart.
+2025-06-23 14:49:16 | INFO | root | test_add_to_cart.py:35 | Items added: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:49:16 | INFO | root | test_add_to_cart.py:38 | Navigating to cart page.
+2025-06-23 14:49:17 | INFO | root | test_add_to_cart.py:40 | Cart page loaded successfully.
+2025-06-23 14:49:17 | INFO | root | test_add_to_cart.py:42 | Removing 2 items from the cart.
+2025-06-23 14:49:19 | INFO | root | test_add_to_cart.py:44 | Items removed: ['Sauce Labs Backpack', 'Sauce Labs Bike Light']
+2025-06-23 14:49:19 | INFO | root | test_add_to_cart.py:48 | Remaining items in cart: ['Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:49:19 | INFO | root | test_add_to_cart.py:57 | Test completed successfully.
+2025-06-23 14:49:23 | INFO | root | test_checkout_items.py:35 | Starting test for user: standard_user
+2025-06-23 14:49:25 | INFO | root | test_checkout_items.py:43 | Login successful.
+2025-06-23 14:49:25 | INFO | root | test_checkout_items.py:45 | Adding all items to the cart.
+2025-06-23 14:49:25 | INFO | root | test_checkout_items.py:47 | Items added: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:49:25 | INFO | root | test_checkout_items.py:50 | Navigating to cart page.
+2025-06-23 14:49:26 | INFO | root | test_checkout_items.py:52 | Cart page loaded successfully.
+2025-06-23 14:49:26 | INFO | root | test_checkout_items.py:54 | Removing 2 items from the cart.
+2025-06-23 14:49:29 | INFO | root | test_checkout_items.py:56 | Items removed: ['Sauce Labs Backpack', 'Sauce Labs Bike Light']
+2025-06-23 14:49:29 | INFO | root | test_checkout_items.py:60 | Remaining items in cart: ['Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:49:29 | INFO | root | test_checkout_items.py:69 | Proceeding to checkout with random data.
+2025-06-23 14:49:29 | INFO | root | test_checkout_items.py:86 | Checkout completed successfully with: zCSXGq JtgobD, 20069
+2025-06-23 14:49:35 | INFO | root | test_login_page.py:24 | === Testing valid login for user: standard_user ===
+2025-06-23 14:49:35 | INFO | root | test_login_page.py:33 | Login successful for user: standard_user
+2025-06-23 14:49:35 | INFO | root | test_login_page.py:24 | === Testing valid login for user: problem_user ===
+2025-06-23 14:49:35 | INFO | root | test_login_page.py:33 | Login successful for user: problem_user
+2025-06-23 14:49:35 | INFO | root | test_login_page.py:24 | === Testing valid login for user: performance_glitch_user ===
+2025-06-23 14:49:36 | INFO | root | test_login_page.py:33 | Login successful for user: performance_glitch_user
+2025-06-23 14:49:36 | INFO | root | test_login_page.py:24 | === Testing valid login for user: error_user ===
+2025-06-23 14:49:36 | INFO | root | test_login_page.py:33 | Login successful for user: error_user
+2025-06-23 14:49:36 | INFO | root | test_login_page.py:24 | === Testing valid login for user: visual_user ===
+2025-06-23 14:49:36 | INFO | root | test_login_page.py:33 | Login successful for user: visual_user
+2025-06-23 14:49:42 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: standa123rd_user ===
+2025-06-23 14:49:42 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: standa123rd_user
+2025-06-23 14:49:42 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: loc34ked_out_user ===
+2025-06-23 14:49:42 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: loc34ked_out_user
+2025-06-23 14:49:43 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: problem_uerser ===
+2025-06-23 14:49:43 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: problem_uerser
+2025-06-23 14:49:43 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: per12formance_glitch_user ===
+2025-06-23 14:49:43 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: per12formance_glitch_user
+2025-06-23 14:49:43 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: er3eror_user ===
+2025-06-23 14:49:44 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: er3eror_user
+2025-06-23 14:49:44 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: visual_u45ser ===
+2025-06-23 14:49:44 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: visual_u45ser
+2025-06-23 14:50:36 | INFO | root | test_add_to_cart.py:23 | Starting test for user: standard_user
+2025-06-23 14:50:38 | INFO | root | test_add_to_cart.py:31 | Login successful.
+2025-06-23 14:50:38 | INFO | root | test_add_to_cart.py:33 | Adding all items to the cart.
+2025-06-23 14:50:38 | INFO | root | test_add_to_cart.py:35 | Items added: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:50:38 | INFO | root | test_add_to_cart.py:38 | Navigating to cart page.
+2025-06-23 14:50:40 | INFO | root | test_add_to_cart.py:40 | Cart page loaded successfully.
+2025-06-23 14:50:40 | INFO | root | test_add_to_cart.py:42 | Removing 2 items from the cart.
+2025-06-23 14:50:42 | INFO | root | test_add_to_cart.py:44 | Items removed: ['Sauce Labs Backpack', 'Sauce Labs Bike Light']
+2025-06-23 14:50:42 | INFO | root | test_add_to_cart.py:48 | Remaining items in cart: ['Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:50:42 | INFO | root | test_add_to_cart.py:57 | Test completed successfully.
+2025-06-23 14:50:46 | INFO | root | test_checkout_items.py:35 | Starting test for user: standard_user
+2025-06-23 14:50:48 | INFO | root | test_checkout_items.py:43 | Login successful.
+2025-06-23 14:50:48 | INFO | root | test_checkout_items.py:45 | Adding all items to the cart.
+2025-06-23 14:50:48 | INFO | root | test_checkout_items.py:47 | Items added: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:50:48 | INFO | root | test_checkout_items.py:50 | Navigating to cart page.
+2025-06-23 14:50:49 | INFO | root | test_checkout_items.py:52 | Cart page loaded successfully.
+2025-06-23 14:50:49 | INFO | root | test_checkout_items.py:54 | Removing 2 items from the cart.
+2025-06-23 14:50:51 | INFO | root | test_checkout_items.py:56 | Items removed: ['Sauce Labs Backpack', 'Sauce Labs Bike Light']
+2025-06-23 14:50:51 | INFO | root | test_checkout_items.py:60 | Remaining items in cart: ['Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:50:51 | INFO | root | test_checkout_items.py:69 | Proceeding to checkout with random data.
+2025-06-23 14:50:52 | INFO | root | test_checkout_items.py:86 | Checkout completed successfully with: AayRuH QRWEgv, 61099
+2025-06-23 14:50:57 | INFO | root | test_login_page.py:24 | === Testing valid login for user: standard_user ===
+2025-06-23 14:50:58 | INFO | root | test_login_page.py:33 | Login successful for user: standard_user
+2025-06-23 14:50:58 | INFO | root | test_login_page.py:24 | === Testing valid login for user: problem_user ===
+2025-06-23 14:50:58 | INFO | root | test_login_page.py:33 | Login successful for user: problem_user
+2025-06-23 14:50:58 | INFO | root | test_login_page.py:24 | === Testing valid login for user: performance_glitch_user ===
+2025-06-23 14:50:59 | INFO | root | test_login_page.py:33 | Login successful for user: performance_glitch_user
+2025-06-23 14:50:59 | INFO | root | test_login_page.py:24 | === Testing valid login for user: error_user ===
+2025-06-23 14:50:59 | INFO | root | test_login_page.py:33 | Login successful for user: error_user
+2025-06-23 14:50:59 | INFO | root | test_login_page.py:24 | === Testing valid login for user: visual_user ===
+2025-06-23 14:50:59 | INFO | root | test_login_page.py:33 | Login successful for user: visual_user
+2025-06-23 14:51:05 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: standa123rd_user ===
+2025-06-23 14:51:05 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: standa123rd_user
+2025-06-23 14:51:05 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: loc34ked_out_user ===
+2025-06-23 14:51:06 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: loc34ked_out_user
+2025-06-23 14:51:06 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: problem_uerser ===
+2025-06-23 14:51:06 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: problem_uerser
+2025-06-23 14:51:06 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: per12formance_glitch_user ===
+2025-06-23 14:51:06 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: per12formance_glitch_user
+2025-06-23 14:51:06 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: er3eror_user ===
+2025-06-23 14:51:07 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: er3eror_user
+2025-06-23 14:51:07 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: visual_u45ser ===
+2025-06-23 14:51:07 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: visual_u45ser
+2025-06-23 14:53:08 | INFO | root | test_add_to_cart.py:23 | Starting test for user: standard_user
+2025-06-23 14:53:09 | INFO | root | test_add_to_cart.py:31 | Login successful.
+2025-06-23 14:53:09 | INFO | root | test_add_to_cart.py:33 | Adding all items to the cart.
+2025-06-23 14:53:10 | INFO | root | test_add_to_cart.py:35 | Items added: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:53:10 | INFO | root | test_add_to_cart.py:38 | Navigating to cart page.
+2025-06-23 14:53:11 | INFO | root | test_add_to_cart.py:40 | Cart page loaded successfully.
+2025-06-23 14:53:11 | INFO | root | test_add_to_cart.py:42 | Removing 2 items from the cart.
+2025-06-23 14:53:13 | INFO | root | test_add_to_cart.py:44 | Items removed: ['Sauce Labs Backpack', 'Sauce Labs Bike Light']
+2025-06-23 14:53:13 | INFO | root | test_add_to_cart.py:48 | Remaining items in cart: ['Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:53:13 | INFO | root | test_add_to_cart.py:57 | Test completed successfully.
+2025-06-23 14:53:17 | INFO | root | test_checkout_items.py:35 | Starting test for user: standard_user
+2025-06-23 14:53:19 | INFO | root | test_checkout_items.py:43 | Login successful.
+2025-06-23 14:53:19 | INFO | root | test_checkout_items.py:45 | Adding all items to the cart.
+2025-06-23 14:53:19 | INFO | root | test_checkout_items.py:47 | Items added: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:53:19 | INFO | root | test_checkout_items.py:50 | Navigating to cart page.
+2025-06-23 14:53:20 | INFO | root | test_checkout_items.py:52 | Cart page loaded successfully.
+2025-06-23 14:53:20 | INFO | root | test_checkout_items.py:54 | Removing 2 items from the cart.
+2025-06-23 14:53:22 | INFO | root | test_checkout_items.py:56 | Items removed: ['Sauce Labs Backpack', 'Sauce Labs Bike Light']
+2025-06-23 14:53:22 | INFO | root | test_checkout_items.py:60 | Remaining items in cart: ['Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:53:22 | INFO | root | test_checkout_items.py:69 | Proceeding to checkout with random data.
+2025-06-23 14:53:23 | INFO | root | test_checkout_items.py:86 | Checkout completed successfully with: ghBihB OCKbyy, 34951
+2025-06-23 14:53:28 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: standa123rd_user ===
+2025-06-23 14:53:28 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: standa123rd_user
+2025-06-23 14:53:29 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: loc34ked_out_user ===
+2025-06-23 14:53:29 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: loc34ked_out_user
+2025-06-23 14:53:29 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: problem_uerser ===
+2025-06-23 14:53:29 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: problem_uerser
+2025-06-23 14:53:29 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: per12formance_glitch_user ===
+2025-06-23 14:53:30 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: per12formance_glitch_user
+2025-06-23 14:53:30 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: er3eror_user ===
+2025-06-23 14:53:30 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: er3eror_user
+2025-06-23 14:53:30 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: visual_u45ser ===
+2025-06-23 14:53:30 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: visual_u45ser
+2025-06-23 14:53:55 | INFO | root | test_add_to_cart.py:23 | Starting test for user: standard_user
+2025-06-23 14:53:56 | INFO | root | test_add_to_cart.py:31 | Login successful.
+2025-06-23 14:53:56 | INFO | root | test_add_to_cart.py:33 | Adding all items to the cart.
+2025-06-23 14:53:57 | INFO | root | test_add_to_cart.py:35 | Items added: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:53:57 | INFO | root | test_add_to_cart.py:38 | Navigating to cart page.
+2025-06-23 14:53:58 | INFO | root | test_add_to_cart.py:40 | Cart page loaded successfully.
+2025-06-23 14:53:58 | INFO | root | test_add_to_cart.py:42 | Removing 2 items from the cart.
+2025-06-23 14:54:00 | INFO | root | test_add_to_cart.py:44 | Items removed: ['Sauce Labs Backpack', 'Sauce Labs Bike Light']
+2025-06-23 14:54:00 | INFO | root | test_add_to_cart.py:48 | Remaining items in cart: ['Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:54:00 | INFO | root | test_add_to_cart.py:57 | Test completed successfully.
+2025-06-23 14:54:04 | INFO | root | test_checkout_items.py:35 | Starting test for user: standard_user
+2025-06-23 14:54:06 | INFO | root | test_checkout_items.py:43 | Login successful.
+2025-06-23 14:54:06 | INFO | root | test_checkout_items.py:45 | Adding all items to the cart.
+2025-06-23 14:54:06 | INFO | root | test_checkout_items.py:47 | Items added: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:54:06 | INFO | root | test_checkout_items.py:50 | Navigating to cart page.
+2025-06-23 14:54:07 | INFO | root | test_checkout_items.py:52 | Cart page loaded successfully.
+2025-06-23 14:54:07 | INFO | root | test_checkout_items.py:54 | Removing 2 items from the cart.
+2025-06-23 14:54:09 | INFO | root | test_checkout_items.py:56 | Items removed: ['Sauce Labs Backpack', 'Sauce Labs Bike Light']
+2025-06-23 14:54:09 | INFO | root | test_checkout_items.py:60 | Remaining items in cart: ['Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:54:09 | INFO | root | test_checkout_items.py:69 | Proceeding to checkout with random data.
+2025-06-23 14:54:10 | INFO | root | test_checkout_items.py:86 | Checkout completed successfully with: SZiGMF VRGssN, 74969
+2025-06-23 14:54:15 | INFO | root | test_login_page.py:24 | === Testing valid login for user: standard_user ===
+2025-06-23 14:54:16 | INFO | root | test_login_page.py:33 | Login successful for user: standard_user
+2025-06-23 14:54:16 | INFO | root | test_login_page.py:24 | === Testing valid login for user: problem_user ===
+2025-06-23 14:54:16 | INFO | root | test_login_page.py:33 | Login successful for user: problem_user
+2025-06-23 14:54:16 | INFO | root | test_login_page.py:24 | === Testing valid login for user: performance_glitch_user ===
+2025-06-23 14:54:16 | INFO | root | test_login_page.py:33 | Login successful for user: performance_glitch_user
+2025-06-23 14:54:17 | INFO | root | test_login_page.py:24 | === Testing valid login for user: error_user ===
+2025-06-23 14:54:17 | INFO | root | test_login_page.py:33 | Login successful for user: error_user
+2025-06-23 14:54:17 | INFO | root | test_login_page.py:24 | === Testing valid login for user: visual_user ===
+2025-06-23 14:54:17 | INFO | root | test_login_page.py:33 | Login successful for user: visual_user
+2025-06-23 14:54:40 | INFO | root | test_add_to_cart.py:23 | Starting test for user: standard_user
+2025-06-23 14:54:41 | INFO | root | test_add_to_cart.py:31 | Login successful.
+2025-06-23 14:54:41 | INFO | root | test_add_to_cart.py:33 | Adding all items to the cart.
+2025-06-23 14:54:42 | INFO | root | test_add_to_cart.py:35 | Items added: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:54:42 | INFO | root | test_add_to_cart.py:38 | Navigating to cart page.
+2025-06-23 14:54:43 | INFO | root | test_add_to_cart.py:40 | Cart page loaded successfully.
+2025-06-23 14:54:43 | INFO | root | test_add_to_cart.py:42 | Removing 2 items from the cart.
+2025-06-23 14:54:45 | INFO | root | test_add_to_cart.py:44 | Items removed: ['Sauce Labs Backpack', 'Sauce Labs Bike Light']
+2025-06-23 14:54:45 | INFO | root | test_add_to_cart.py:48 | Remaining items in cart: ['Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:54:45 | INFO | root | test_add_to_cart.py:57 | Test completed successfully.
+2025-06-23 14:54:49 | INFO | root | test_checkout_items.py:35 | Starting test for user: standard_user
+2025-06-23 14:54:51 | INFO | root | test_checkout_items.py:43 | Login successful.
+2025-06-23 14:54:51 | INFO | root | test_checkout_items.py:45 | Adding all items to the cart.
+2025-06-23 14:54:51 | INFO | root | test_checkout_items.py:47 | Items added: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:54:51 | INFO | root | test_checkout_items.py:50 | Navigating to cart page.
+2025-06-23 14:54:52 | INFO | root | test_checkout_items.py:52 | Cart page loaded successfully.
+2025-06-23 14:54:52 | INFO | root | test_checkout_items.py:54 | Removing 2 items from the cart.
+2025-06-23 14:54:54 | INFO | root | test_checkout_items.py:56 | Items removed: ['Sauce Labs Backpack', 'Sauce Labs Bike Light']
+2025-06-23 14:54:54 | INFO | root | test_checkout_items.py:60 | Remaining items in cart: ['Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:54:54 | INFO | root | test_checkout_items.py:69 | Proceeding to checkout with random data.
+2025-06-23 14:54:55 | INFO | root | test_checkout_items.py:86 | Checkout completed successfully with: sqlAex KCvgZi, 14436
+2025-06-23 14:55:00 | INFO | root | test_login_page.py:24 | === Testing valid login for user: standard_user ===
+2025-06-23 14:55:01 | INFO | root | test_login_page.py:33 | Login successful for user: standard_user
+2025-06-23 14:55:01 | INFO | root | test_login_page.py:24 | === Testing valid login for user: problem_user ===
+2025-06-23 14:55:01 | INFO | root | test_login_page.py:33 | Login successful for user: problem_user
+2025-06-23 14:55:01 | INFO | root | test_login_page.py:24 | === Testing valid login for user: performance_glitch_user ===
+2025-06-23 14:55:02 | INFO | root | test_login_page.py:33 | Login successful for user: performance_glitch_user
+2025-06-23 14:55:02 | INFO | root | test_login_page.py:24 | === Testing valid login for user: error_user ===
+2025-06-23 14:55:02 | INFO | root | test_login_page.py:33 | Login successful for user: error_user
+2025-06-23 14:55:02 | INFO | root | test_login_page.py:24 | === Testing valid login for user: visual_user ===
+2025-06-23 14:55:02 | INFO | root | test_login_page.py:33 | Login successful for user: visual_user
+2025-06-23 14:55:07 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: standa123rd_user ===
+2025-06-23 14:55:08 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: standa123rd_user
+2025-06-23 14:55:08 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: loc34ked_out_user ===
+2025-06-23 14:55:08 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: loc34ked_out_user
+2025-06-23 14:55:08 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: problem_uerser ===
+2025-06-23 14:55:09 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: problem_uerser
+2025-06-23 14:55:09 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: per12formance_glitch_user ===
+2025-06-23 14:55:09 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: per12formance_glitch_user
+2025-06-23 14:55:09 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: er3eror_user ===
+2025-06-23 14:55:09 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: er3eror_user
+2025-06-23 14:55:09 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: visual_u45ser ===
+2025-06-23 14:55:10 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: visual_u45ser
+2025-06-23 14:55:44 | INFO | root | test_add_to_cart.py:23 | Starting test for user: standard_user
+2025-06-23 14:55:45 | INFO | root | test_add_to_cart.py:31 | Login successful.
+2025-06-23 14:55:45 | INFO | root | test_add_to_cart.py:33 | Adding all items to the cart.
+2025-06-23 14:55:46 | INFO | root | test_add_to_cart.py:35 | Items added: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:55:46 | INFO | root | test_add_to_cart.py:38 | Navigating to cart page.
+2025-06-23 14:55:47 | INFO | root | test_add_to_cart.py:40 | Cart page loaded successfully.
+2025-06-23 14:55:47 | INFO | root | test_add_to_cart.py:42 | Removing 2 items from the cart.
+2025-06-23 14:55:49 | INFO | root | test_add_to_cart.py:44 | Items removed: ['Sauce Labs Backpack', 'Sauce Labs Bike Light']
+2025-06-23 14:55:49 | INFO | root | test_add_to_cart.py:48 | Remaining items in cart: ['Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:55:49 | INFO | root | test_add_to_cart.py:57 | Test completed successfully.
+2025-06-23 14:55:53 | INFO | root | test_checkout_items.py:35 | Starting test for user: standard_user
+2025-06-23 14:55:56 | INFO | root | test_checkout_items.py:43 | Login successful.
+2025-06-23 14:55:56 | INFO | root | test_checkout_items.py:45 | Adding all items to the cart.
+2025-06-23 14:55:56 | INFO | root | test_checkout_items.py:47 | Items added: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:55:56 | INFO | root | test_checkout_items.py:50 | Navigating to cart page.
+2025-06-23 14:55:57 | INFO | root | test_checkout_items.py:52 | Cart page loaded successfully.
+2025-06-23 14:55:57 | INFO | root | test_checkout_items.py:54 | Removing 2 items from the cart.
+2025-06-23 14:55:59 | INFO | root | test_checkout_items.py:56 | Items removed: ['Sauce Labs Backpack', 'Sauce Labs Bike Light']
+2025-06-23 14:55:59 | INFO | root | test_checkout_items.py:60 | Remaining items in cart: ['Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:55:59 | INFO | root | test_checkout_items.py:69 | Proceeding to checkout with random data.
+2025-06-23 14:56:00 | INFO | root | test_checkout_items.py:86 | Checkout completed successfully with: eeSKsl lOhgge, 35210
+2025-06-23 14:56:05 | INFO | root | test_login_page.py:24 | === Testing valid login for user: standard_user ===
+2025-06-23 14:56:06 | INFO | root | test_login_page.py:33 | Login successful for user: standard_user
+2025-06-23 14:56:06 | INFO | root | test_login_page.py:24 | === Testing valid login for user: problem_user ===
+2025-06-23 14:56:06 | INFO | root | test_login_page.py:33 | Login successful for user: problem_user
+2025-06-23 14:56:06 | INFO | root | test_login_page.py:24 | === Testing valid login for user: performance_glitch_user ===
+2025-06-23 14:56:06 | INFO | root | test_login_page.py:33 | Login successful for user: performance_glitch_user
+2025-06-23 14:56:06 | INFO | root | test_login_page.py:24 | === Testing valid login for user: error_user ===
+2025-06-23 14:56:07 | INFO | root | test_login_page.py:33 | Login successful for user: error_user
+2025-06-23 14:56:07 | INFO | root | test_login_page.py:24 | === Testing valid login for user: visual_user ===
+2025-06-23 14:56:07 | INFO | root | test_login_page.py:33 | Login successful for user: visual_user
+2025-06-23 14:56:12 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: standa123rd_user ===
+2025-06-23 14:56:13 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: standa123rd_user
+2025-06-23 14:56:13 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: loc34ked_out_user ===
+2025-06-23 14:56:13 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: loc34ked_out_user
+2025-06-23 14:56:13 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: problem_uerser ===
+2025-06-23 14:56:13 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: problem_uerser
+2025-06-23 14:56:13 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: per12formance_glitch_user ===
+2025-06-23 14:56:14 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: per12formance_glitch_user
+2025-06-23 14:56:14 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: er3eror_user ===
+2025-06-23 14:56:14 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: er3eror_user
+2025-06-23 14:56:14 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: visual_u45ser ===
+2025-06-23 14:56:14 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: visual_u45ser
+2025-06-23 14:56:45 | INFO | root | test_add_to_cart.py:23 | Starting test for user: standard_user
+2025-06-23 14:56:47 | INFO | root | test_add_to_cart.py:31 | Login successful.
+2025-06-23 14:56:47 | INFO | root | test_add_to_cart.py:33 | Adding all items to the cart.
+2025-06-23 14:56:47 | INFO | root | test_add_to_cart.py:35 | Items added: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:56:47 | INFO | root | test_add_to_cart.py:38 | Navigating to cart page.
+2025-06-23 14:56:48 | INFO | root | test_add_to_cart.py:40 | Cart page loaded successfully.
+2025-06-23 14:56:48 | INFO | root | test_add_to_cart.py:42 | Removing 2 items from the cart.
+2025-06-23 14:56:51 | INFO | root | test_add_to_cart.py:44 | Items removed: ['Sauce Labs Backpack', 'Sauce Labs Bike Light']
+2025-06-23 14:56:51 | INFO | root | test_add_to_cart.py:48 | Remaining items in cart: ['Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:56:51 | INFO | root | test_add_to_cart.py:57 | Test completed successfully.
+2025-06-23 14:56:55 | INFO | root | test_checkout_items.py:35 | Starting test for user: standard_user
+2025-06-23 14:56:57 | INFO | root | test_checkout_items.py:43 | Login successful.
+2025-06-23 14:56:57 | INFO | root | test_checkout_items.py:45 | Adding all items to the cart.
+2025-06-23 14:56:57 | INFO | root | test_checkout_items.py:47 | Items added: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:56:57 | INFO | root | test_checkout_items.py:50 | Navigating to cart page.
+2025-06-23 14:56:58 | INFO | root | test_checkout_items.py:52 | Cart page loaded successfully.
+2025-06-23 14:56:58 | INFO | root | test_checkout_items.py:54 | Removing 2 items from the cart.
+2025-06-23 14:57:00 | INFO | root | test_checkout_items.py:56 | Items removed: ['Sauce Labs Backpack', 'Sauce Labs Bike Light']
+2025-06-23 14:57:00 | INFO | root | test_checkout_items.py:60 | Remaining items in cart: ['Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 14:57:00 | INFO | root | test_checkout_items.py:69 | Proceeding to checkout with random data.
+2025-06-23 14:57:01 | INFO | root | test_checkout_items.py:86 | Checkout completed successfully with: XDObZR zrLaNA, 55839
+2025-06-23 14:57:06 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: standa123rd_user ===
+2025-06-23 14:57:07 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: standa123rd_user
+2025-06-23 14:57:07 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: loc34ked_out_user ===
+2025-06-23 14:57:07 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: loc34ked_out_user
+2025-06-23 14:57:07 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: problem_uerser ===
+2025-06-23 14:57:07 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: problem_uerser
+2025-06-23 14:57:07 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: per12formance_glitch_user ===
+2025-06-23 14:57:08 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: per12formance_glitch_user
+2025-06-23 14:57:08 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: er3eror_user ===
+2025-06-23 14:57:08 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: er3eror_user
+2025-06-23 14:57:08 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: visual_u45ser ===
+2025-06-23 14:57:08 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: visual_u45ser
+2025-06-23 20:12:22 | INFO | root | test_add_to_cart.py:23 | Starting test for user: standard_user
+2025-06-23 20:12:23 | INFO | root | test_add_to_cart.py:31 | Login successful.
+2025-06-23 20:12:23 | INFO | root | test_add_to_cart.py:33 | Adding all items to the cart.
+2025-06-23 20:12:24 | INFO | root | test_add_to_cart.py:35 | Items added: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 20:12:24 | INFO | root | test_add_to_cart.py:38 | Navigating to cart page.
+2025-06-23 20:12:25 | INFO | root | test_add_to_cart.py:40 | Cart page loaded successfully.
+2025-06-23 20:12:25 | INFO | root | test_add_to_cart.py:42 | Removing 2 items from the cart.
+2025-06-23 20:12:27 | INFO | root | test_add_to_cart.py:44 | Items removed: ['Sauce Labs Backpack', 'Sauce Labs Bike Light']
+2025-06-23 20:12:27 | INFO | root | test_add_to_cart.py:48 | Remaining items in cart: ['Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 20:12:27 | INFO | root | test_add_to_cart.py:57 | Test completed successfully.
+2025-06-23 20:12:32 | INFO | root | test_checkout_items.py:35 | Starting test for user: standard_user
+2025-06-23 20:12:34 | INFO | root | test_checkout_items.py:43 | Login successful.
+2025-06-23 20:12:34 | INFO | root | test_checkout_items.py:45 | Adding all items to the cart.
+2025-06-23 20:12:34 | INFO | root | test_checkout_items.py:47 | Items added: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 20:12:34 | INFO | root | test_checkout_items.py:50 | Navigating to cart page.
+2025-06-23 20:12:35 | INFO | root | test_checkout_items.py:52 | Cart page loaded successfully.
+2025-06-23 20:12:35 | INFO | root | test_checkout_items.py:54 | Removing 2 items from the cart.
+2025-06-23 20:12:38 | INFO | root | test_checkout_items.py:56 | Items removed: ['Sauce Labs Backpack', 'Sauce Labs Bike Light']
+2025-06-23 20:12:38 | INFO | root | test_checkout_items.py:60 | Remaining items in cart: ['Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2025-06-23 20:12:38 | INFO | root | test_checkout_items.py:69 | Proceeding to checkout with random data.
+2025-06-23 20:12:39 | INFO | root | test_checkout_items.py:86 | Checkout completed successfully with: oDMJXa tXVrwr, 87113
+2025-06-23 20:12:45 | INFO | root | test_login_page.py:24 | === Testing valid login for user: standard_user ===
+2025-06-23 20:12:45 | INFO | root | test_login_page.py:33 | Login successful for user: standard_user
+2025-06-23 20:12:45 | INFO | root | test_login_page.py:24 | === Testing valid login for user: problem_user ===
+2025-06-23 20:12:46 | INFO | root | test_login_page.py:33 | Login successful for user: problem_user
+2025-06-23 20:12:46 | INFO | root | test_login_page.py:24 | === Testing valid login for user: performance_glitch_user ===
+2025-06-23 20:12:46 | INFO | root | test_login_page.py:33 | Login successful for user: performance_glitch_user
+2025-06-23 20:12:46 | INFO | root | test_login_page.py:24 | === Testing valid login for user: error_user ===
+2025-06-23 20:12:46 | INFO | root | test_login_page.py:33 | Login successful for user: error_user
+2025-06-23 20:12:46 | INFO | root | test_login_page.py:24 | === Testing valid login for user: visual_user ===
+2025-06-23 20:12:47 | INFO | root | test_login_page.py:33 | Login successful for user: visual_user
+2025-06-23 20:12:52 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: standa123rd_user ===
+2025-06-23 20:12:53 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: standa123rd_user
+2025-06-23 20:12:53 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: loc34ked_out_user ===
+2025-06-23 20:12:53 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: loc34ked_out_user
+2025-06-23 20:12:53 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: problem_uerser ===
+2025-06-23 20:12:54 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: problem_uerser
+2025-06-23 20:12:54 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: per12formance_glitch_user ===
+2025-06-23 20:12:54 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: per12formance_glitch_user
+2025-06-23 20:12:54 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: er3eror_user ===
+2025-06-23 20:12:54 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: er3eror_user
+2025-06-23 20:12:55 | INFO | root | test_login_page.py:43 | === Testing invalid login for user: visual_u45ser ===
+2025-06-23 20:12:55 | INFO | root | test_login_page.py:52 | Proper error shown for invalid user: visual_u45ser
